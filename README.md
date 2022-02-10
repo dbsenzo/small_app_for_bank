@@ -1,4 +1,4 @@
-# small_app_for_bank
+# Petite application de gestion de banque
 Une petite application exclusivement en JAVA.
 
 I - Fonctionnement / Fonctionnalités du programme 
